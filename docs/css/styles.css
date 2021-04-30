@@ -1,0 +1,22 @@
+.footer,
+body,
+html {
+  border-top-color: #0678be;
+  border-bottom-color: #0678be;
+}
+.container a {
+  color: #0678be;
+}
+.container a:hover {
+  color: #065ccc;
+}
+.rounded-circle {
+  transition: 0.3s ease transform;
+  transition-delay: 0.175s;
+  cursor: all-scroll;
+  box-shadow: 0 0 3px 1px #0678be;
+  max-width: 240px;
+}
+.rounded-circle:hover {
+  transform: rotateY(180deg);
+}

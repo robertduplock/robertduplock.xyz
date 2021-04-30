@@ -1,0 +1,15 @@
+<form class="mt-5 pd-1" action="{{ .Get "action" }}" method="POST" role="form">
+  <div class="form-group mt-3 mb-3 text-start">
+    <label for="name">Name</label>
+    <input type="text" class="form-control" name="name" id="name" placeholder="Enter name">
+  </div>
+  <div class="form-group mt-3 mb-3 text-start">
+    <label for="email">Email address</label>
+    <input type="email" class="form-control" name="name" id="email" placeholder="Enter email">
+  </div>
+  <div class="form-group mt-3 mb-3 text-start">
+    <label for="message">Message</label>
+    <textarea class="form-control" name="message" id="message" placeholder="Enter a message"></textarea>
+  </div>
+  <button type="submit" class="mt-3 btn btn-primary">Submit</button>
+</form>

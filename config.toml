@@ -1,0 +1,48 @@
+baseURL = "https://robertduplock.xyz/"
+languageCode = "en-US"
+title = "Rob Duplock"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/profile.jpg"
+  author = "Rob Duplock"
+  description = "Rob Duplock, Drupal web developer, Sydney"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = ["css/styles.css"]
+  custom_js  = []
+
+[params.social]
+  Github        = "rob-duplock"
+  # Email         = "email@example.com"
+  # Twitter       = "username"
+  LinkedIn      = "robert-duplock-431008b5"
+  Stackoverflow = "users/5163194/100pic"
+  # Medium        = "username"
+  # Telegram      = "username"
+  # RSS           = "/blog/index.xml"
+
+## Main Menu
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 100
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 200
+  url = "/resume/"
+[[menu.main]]
+  name = "contact"
+  identifier = "contact"
+  weight = 300
+  url = "/contact/"
+  

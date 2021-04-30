@@ -1,0 +1,36 @@
+name: Projects
+source:
+  - icon: fa fa-globe
+    name: Australian Doctor
+    description: Senior web developer
+    url: https://www.ausdoc.com.au
+
+  - icon: fa fa-globe
+    name: Australia's Nature Hub
+    description: Tech lead
+    url: https://www.australiasnaturehub.gov.au
+
+  - icon: fa fa-globe
+    name: EPBC Act Review 
+    description: Tech lead
+    url: https://epbcactreview.environment.gov.au
+
+  - icon: fa fa-globe
+    name: WA Gov
+    description: Developer
+    url: https://www.wa.gov.au
+
+  - icon: fa fa-globe
+    name: RemServ
+    description: Developer
+    url: https://www.remserv.com.au
+
+  - icon: fa fa-globe
+    name: Maxxia
+    description: Developer
+    url: https://www.maxxia.com.au
+
+  - icon: fa fa-globe
+    name: Layout Builder Admin Theme
+    description: Drupal module
+    url: https://www.drupal.org/project/layout_builder_admin_theme
