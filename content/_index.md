@@ -1,7 +1,7 @@
 ---
 ---
 
-I'm **Rob Duplock**, a Drupal web developer.
+I'm **Rob Duplock**, a Drupal web developer. I also love Hugo.
 
 I live in Sydney and I'm passionate about all things web.
 
