@@ -13,7 +13,7 @@ html {
 .rounded-circle {
   transition: 0.3s ease transform;
   transition-delay: 0.175s;
-  cursor: all-scroll;
+  /* cursor: all-scroll; */
   box-shadow: 0 0 3px 1px #0678be;
   max-width: 240px;
 }
