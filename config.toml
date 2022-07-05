@@ -35,11 +35,11 @@ theme = "sustain"
   identifier = "projects"
   weight = 100
   url = "/projects/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 200
-  url = "/resume/"
+# [[menu.main]]
+#  name = "resume"
+#  identifier = "resume"
+#  weight = 200
+#  url = "/resume/"
 [[menu.main]]
   name = "contact"
   identifier = "contact"
